@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5c638de693f6adf4c91bcc90ac5b3b19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - balaza: {fileID: 2640956372403724014, guid: 8e26269acc421da449ced9697ba25770, type: 3}
+  - _audio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
